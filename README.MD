@@ -1,0 +1,1 @@
+LOAD json GGS from https://order.cgkipd.ru/
